@@ -6,3 +6,6 @@ Here are ways you can contact me:
 * [email](mailto:kulkarnim2@nku.edu)
 *  LinkedIn
 *  Github
+
+### Map of Northern Kentucky University
+<embed type="text/html" src="/img/nku.html" width="600" height="600">
