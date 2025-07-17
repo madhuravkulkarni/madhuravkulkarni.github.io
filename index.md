@@ -4,8 +4,8 @@ Hello! I am the director of a P-16 STEM center, the [Center for Integrative Natu
 
 Here are ways you can contact me:
 * [email](mailto:kulkarnim2@nku.edu)
-*  LinkedIn
-*  Github
+*  [LinkedIn](https://www.linkedin.com/in/madhura-kulkarni-02944378)
+*  [Github](madhuravkulkarni.github.io)
 
-### Map of Northern Kentucky University
+### Map of my campus
 <embed type="text/html" src="/img/nku.html" width="600" height="600">
