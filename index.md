@@ -1,6 +1,6 @@
 ## Madhura Kulkarni
 
-Hello! I am the director of a P-16 STEM center, the [Center for Integrative Natural Science and Mathematics](https://www.nku.edu/academics/artsci/about/centers/cinsam.html) at Northen Kentucky University. I am also an environmental scientist interested in climate change, data science, education, and environmental justice. 
+Hello! I am an associate professor in the [Biological Sciences Department](https://www.nku.edu/academics/programs/biological-sciences/bachelor-bio-sciences.html) at [Northern Kentucky University](www.nku.edu). I am also an environmental scientist interested in climate change, education, environmental justice, and technology. For eleven years, I was the director of our P-16 STEM center, the [Center for Integrative Natural Science and Mathematics](https://www.nku.edu/academics/artsci/about/centers/cinsam.html).
 
 Here are ways you can contact me:
 * [email](mailto:kulkarnim2@nku.edu)
