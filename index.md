@@ -10,5 +10,8 @@ Here are ways you can contact me:
 ### Map of my campus
 <embed type="text/html" src="/img/nku.html" width="600" height="600">
 
+### Map of CU Boulder campus (because I'm taking an earth data science course through CU Boulder)
+<embed type="text/html" src="img/map-demonstration.ipynb" width="600" height="600>
+
 ### Map showing changes in NDVI in Tubarjal Region of Saudi Arabia
 <embed type="text/html" src="/img/NDVI_Difference_Tubarjal_Valley.html" width="600" height="600">
