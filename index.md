@@ -1,5 +1,4 @@
 ## Madhura Kulkarni
-![Madhura Kulkarni headshot](/img/madhura_kulkarni_headshot.jpg)
 
 Hello! I am an associate professor in the [Biological Sciences Department](https://www.nku.edu/academics/programs/biological-sciences/bachelor-bio-sciences.html) at [Northern Kentucky University](www.nku.edu). I am also an environmental scientist interested in climate change, education, environmental justice, and technology. For eleven years, I was the director of our P-16 STEM center, the [Center for Integrative Natural Science and Mathematics](https://www.nku.edu/academics/artsci/about/centers/cinsam.html).
 
