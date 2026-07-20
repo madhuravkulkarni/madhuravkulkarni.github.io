@@ -7,11 +7,14 @@ Here are ways you can contact me:
 *  [LinkedIn](https://www.linkedin.com/in/madhura-kulkarni-02944378)
 *  [Github](madhuravkulkarni.github.io)
 
-### Map of my campus
+### Interactive map of my campus
 <embed type="text/html" src="/img/nku.html" width="600" height="600">
 
-### Map of CU Boulder campus (because I'm taking an earth data science course through CU Boulder)
+### Interactive map of CU Boulder campus (because I'm taking an earth data science course through CU Boulder)
 <embed type="text/html" src="/img/cu_map.html" height="650" width="850">
+
+### Interactive pap of average annual temperatures in Boulder, Colorado over the last 30 years
+<embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
 
 ### Map showing changes in NDVI in Tubarjal Region of Saudi Arabia
 <embed type="text/html" src="/img/NDVI_Difference_Tubarjal_Valley.html" width="600" height="600">
