@@ -17,7 +17,7 @@ Here are ways you can contact me:
 <embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
 
 ### Interactive map of average annual temperatures in Mumbai, Mahrashtra, India over the last 75 years
-<embed type="text/html" src="img/mumbai_plot.html" width="900" height="600">
+<embed type="text/html" src="img/mumbai_plot.html" width="850" height="600">
 
 ### Map showing changes in NDVI in Tubarjal Region of Saudi Arabia
 <embed type="text/html" src="/img/NDVI_Difference_Tubarjal_Valley.html" width="600" height="600">
