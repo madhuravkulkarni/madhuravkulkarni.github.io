@@ -10,8 +10,8 @@ Here are ways you can contact me:
 ### Interactive map of my campus
 <embed type="text/html" src="/img/nku.html" width="600" height="600">
 
-### Interactive map of CU Boulder campus (because I'm taking an earth data science course through CU Boulder)
-<embed type="text/html" src="/img/cu_map.html" height="650" width="850">
+### Interactive map of Fairmont State University's campus
+<embed type="text/html" src="/img/fairmont.html" height="650" width="850">
 
 ### Interactive pap of average annual temperatures in Boulder, Colorado over the last 30 years
 <embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
